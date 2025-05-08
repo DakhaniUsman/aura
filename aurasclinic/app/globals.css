@@ -49,3 +49,7 @@ html{
 .wrapper{
   padding-top: 8em;
 }
+
+.swiper-pagination-bullets{
+  bottom: 0;
+}
